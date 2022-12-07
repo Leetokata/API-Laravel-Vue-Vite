@@ -1,0 +1,30 @@
+body{
+    background-color:#fbfaf9;;
+    
+}
+.container{
+    margin-top: 10px;
+    background-color: #f7f7f7;
+    border: solid 1px #bdb6b6;
+    border-radius: 25px;
+}
+
+.margin-container{
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.message-container{
+    height: 35px;
+    overflow: hidden;
+   
+}
+.form-container{
+    color: #0d6efd;
+    background-color: #9eb9ef24;
+    border: 1px solid #0d6efd;
+    border-radius: 25px;
+}
+.card-container{
+    background-color: #9eb9ef24;
+}
