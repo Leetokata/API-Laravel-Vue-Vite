@@ -29,7 +29,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## 💻 Installation 
 1.- Configuring the .ENV file you can use the .env.example and place your configure it with your data
 
-2.- Install PHP dependencies 
+2.- Install PHP dependencies
 
 ```
 composer install
@@ -41,7 +41,7 @@ composer install
 php artisan key:generate
 ```
 
-4.- Install Javascript dependenciesy 
+4.- Install Javascript dependencies
 
 ``` 
 npm install
