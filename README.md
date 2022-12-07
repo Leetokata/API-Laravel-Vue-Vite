@@ -31,9 +31,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 2.- Install PHP dependencies 
 
-``
+```
 composer install
-``
+```
 
 3.- Generate a new key 
 
